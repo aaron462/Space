@@ -1,8 +1,14 @@
 [
 	{
-		"name": "! Request an app",
-		"url": "https://docs.google.com/forms/d/e/1FAIpQLSeZcPMt3toVL8EtKLfHMbKpx4lZzqAAr5ifvZJRwoXqsLSf-A/viewform?usp=pp_url",
-		"img": "/assets/requestGame.jpg",
+		"name": "android emu",
+		"url": "https://now.gg/apps/uncube/7074/now.html",
+		"img": "/assets/roblox.png",
+		"categories": ["all"]
+	},
+	{
+		"name": "roblox",
+		"url": "selfstudybrain.com",
+		"img": "/assets/roblox.png",
 		"categories": ["all"]
 	},
 	{
@@ -133,13 +139,13 @@
 	},
 	{
 		"name": "Eaglercraft v1.8",
-		"url": "https://mcv18.netlify.app/",
+		"url": "https://toasted-bacon.github.io/clientselector/Selector.html",
 		"img": "/assets/imgs/g/Eaglercraft_v1_8.webp",
 		"categories": ["all", "popular", "multiplayer"]
 	},
 	{
 		"name": "Eaglercraft v1.5.2",
-		"url": "https://mcv152.netlify.app/",
+		"url": "https://toasted-bacon.github.io/clientselector/Selector.html",
 		"img": "/assets/imgs/g/Eaglercraft_v1_8.webp",
 		"categories": ["all", "popular", "multiplayer"]
 	},

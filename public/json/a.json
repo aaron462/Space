@@ -1,11 +1,5 @@
 [
 	{
-		"name": "! Request a game",
-		"url": "https://docs.google.com/forms/d/e/1FAIpQLSeZcPMt3toVL8EtKLfHMbKpx4lZzqAAr5ifvZJRwoXqsLSf-A/viewform?usp=pp_url",
-		"img": "/assets/requestApp.jpg",
-		"categories": ["all"]
-	},
-	{
 		"name": "Amazon",
 		"url": "https://www.amazon.com/",
 		"img": "/assets/imgs/a/Amazon.webp",
@@ -119,23 +113,12 @@
 		"img": "/assets/imgs/a/Telegram.webp",
 		"categories": ["all", "messaging", "media", "social"]
 	},
-	{
-		"name": "Temu",
-		"url": "https://www.temu.com/",
-		"img": "/assets/imgs/a/Temu.webp",
-		"categories": ["all", "media"]
-	},
+
 	{
 		"name": "TikTok",
 		"url": "https://www.tiktok.com/explore",
 		"img": "/assets/imgs/a/TikTok.webp",
 		"categories": ["all", "media", "social"]
-	},
-	{
-		"name": "Tumblr",
-		"url": "https://www.tumblr.com/",
-		"img": "/assets/imgs/a/Tumblr.webp",
-		"categories": ["all", "messaging", "social", "media"]
 	},
 	{
 		"name": "Twitch",
@@ -155,12 +138,7 @@
 		"img": "/assets/imgs/a/VS_Code.webp",
 		"categories": ["all", "media"]
 	},
-	{
-		"name": "Y8 Games",
-		"url": "https://www.y8.com/",
-		"img": "/assets/imgs/a/Y8_Games.webp",
-		"categories": ["all", "game"]
-	},
+
 	{
 		"name": "YouTube",
 		"url": "https://www.youtube.com",
@@ -173,28 +151,11 @@
 		"img": "/assets/imgs/a/webretro.webp",
 		"categories": ["all", "game", "popular"]
 	},
-	{
-		"name": "Character.AI",
-		"url": "https://beta.character.ai",
-		"img": "/assets/imgs/a/Character_AI.webp",
-		"categories": ["all", "ai", "popular"]
-	},
-	{
-		"name": "Snapchat",
-		"url": "https://www.snapchat.com",
-		"img": "/assets/imgs/a/Snapchat.webp",
-		"categories": ["all", "media", "messaging", "popular"]
-	},
+
 	{
 		"name": "Shuttle.lol",
 		"url": "https://shuttle.lol",
 		"img": "/assets/imgs/a/Shuttle_lol.webp",
 		"categories": ["all", "game"]
-	},
-	{
-		"name": "Wattpad",
-		"url": "https://wattpad.com",
-		"img": "/assets/imgs/a/Wattpad.webp",
-		"categories": ["all", "popular", "media"]
 	}
 ]
